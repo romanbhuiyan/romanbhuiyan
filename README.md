@@ -59,11 +59,13 @@ With experience spanning **academia** and **industry**, I combine theoretical re
 
 ---
 
-## 📬 Contact
-- **Email**: [roman.bhuiyan@example.com](mailto:roman.bhuiyan@example.com)
-- **LinkedIn**: [linkedin.com/in/romanbhuiyan](https://linkedin.com/in/romanbhuiyan)
-- **Google Scholar**: [scholar.google.com](https://scholar.google.com/)
-- **GitHub**: [github.com/romanbhuiyan](https://github.com/romanbhuiyan)
+## 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/md-roman-bhuiyan-ph-d-121286129/)
+- [Google Scholar](https://scholar.google.com/citations?user=nwt-BggAAAAJ&hl=en)
+- [Berlin School of Business and Innovation](https://www.berlinsbi.com/about-us/our-team/academic-faculty/dr-md-roman-bhuiyan)
+- [GitHub](https://github.com/romanbhuiyan)
+- [Email](mailto:romanbhuiyanpv@gmail.com)
 
 ---
 
