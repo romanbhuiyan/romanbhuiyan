@@ -59,6 +59,59 @@ With experience spanning **academia** and **industry**, I combine theoretical re
 
 ---
 
+# Projects Portfolio
+
+This README provides an overview of several projects focused on deep learning, computer vision, and enterprise software solutions.
+
+---
+
+## Animal Behavior Analysis for Chicken Identification and Health Monitoring Using Computer Vision
+**Duration:** 11/2022 - 10/2023  
+- Developed a deep learning model for analyzing chicken behavior.
+- The model is deployed live in Germany with two companies.
+- **Technologies Used:** Python, Deep Learning, Mask-RCNN, FCNN, TensorFlow.
+
+---
+
+## Crowd Density Classification Using Deep Learning
+**Duration:** 05/2019 - 10/2022  
+- Designed and implemented questionnaires for collecting user-generated data.
+- Analyzed and presented findings for review.
+- **Technologies Used:** Python, Deep Learning, FCNN, TensorFlow.
+
+---
+
+## Crowd Anomaly Detection Using Deep Learning
+**Duration:** 05/2019 - 10/2022  
+- Developed and implemented data collection questionnaires.
+- Analyzed user data to detect anomalies in crowd behavior.
+- **Technologies Used:** Python, Deep Learning, FCNN, TensorFlow, Optical Flow.
+
+---
+
+## Automatic Insect Pest Identification and Recognition for Paddy Crops Pest Control Using Deep Learning
+**Duration:** 01/2022 - 11/2023  
+- Implemented a deep learning model for automated pest identification in paddy crops.
+- **Technologies Used:** Python, Deep Learning, FCNN, PyTorch.
+
+---
+
+## HRS Management System (ERP) Software
+**Duration:** 01/2015 - 04/2016  
+- Evaluated project requirements, identified challenges, and proposed solutions using research and data analysis.
+- Developed reporting features.
+- **Technologies Used:** Visual Studio 2010, SQL Server 2008, MVC4.
+
+---
+
+## Accounts Management System (ERP) Software
+**Duration:** 10/2017 - 12/2018  
+- Assessed project requirements, identified challenges, and proposed alternatives using research and data analysis.
+- Developed reporting modules.
+- **Technologies Used:** Visual Studio 2010, SQL Server 2008, MVC4.
+
+---
+
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/md-roman-bhuiyan-ph-d-121286129/)
