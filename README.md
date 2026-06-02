@@ -41,8 +41,7 @@ With experience spanning **academia** and **industry**, I combine theoretical re
 
 ## 📄 Selected Publications
 - **Bhuiyan, M.R.**, Abdullah, J., Hashim, N. et al. *Hajj pilgrimage abnormal crowd movement monitoring using optical flow and FCNN.* Journal of Big Data 10, 86 (2023). [Link](https://doi.org/10.1186/s40537-023-00779-4)
-- **Bhuiyan, M.R.**, Uddin, J. *Deep Transfer Learning Models for Industrial Fault Diagnosis.* Vibration 2023, 6, 218-238. [Link](https://doi.org/10.3390/vibration6010014)
-- **Bhuiyan, M.R.**, Abdullah, J., Hashim, N. et al. *Video analytics using deep learning for crowd analysis: a review.* Multimedia Tools Appl (2022). [Link](https://doi.org/10.1007/s11042-022-12833-z)
+- **Bhuiyan, M.R.**, Uddin, J. *Deep Transfer Learning Models for Industrial Fault Diagnosis.* Vibration 2023, 6, 218-238. [Link](https://doi.org/10.3390/vibration6010014
 - **Bhuiyan, M.R.** et al. *A deep crowd density classification model for Hajj pilgrimage using fully convolutional neural network.* PeerJ Computer Science 8:e895 (2022). [Link](https://doi.org/10.7717/peerj-cs.895)
 - **Bhuiyan, M.R.** & P. Wree, *Animal Behavior for Chicken Identification and Monitoring Health Condition Using Computer Vision: A Systematic Review.* IEEE Access 2023. [Link](https://doi.org/10.1109/ACCESS.2023.3331092)
 - **F. A. Farid** et al., *Single Shot Detector CNN and Deep Dilated Masks for Vision-Based Hand Gesture Recognition.* IEEE Access 2024. [Link](https://doi.org/10.1109/ACCESS.2024.3360857)
